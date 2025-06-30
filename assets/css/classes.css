@@ -22,7 +22,7 @@
 }
 
 .main-bg {
-  background-image: url(/assets/img/confetti-doodles.svg);
+  background-image: url(/html-css/assets/img/confetti-doodles.svg);
   background-size: cover;
   background-position: center center;
   color: var(--white-color);
@@ -49,4 +49,3 @@ body .full-width {
   width: 100%;
   flex: 1 1 100%;
 }
-
